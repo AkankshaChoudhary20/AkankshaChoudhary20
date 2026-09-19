@@ -2,7 +2,7 @@
 
 Full-Stack Engineer (7+ yrs) building production React/Node systems — now shipping AI-native features: RAG pipelines, LLM agents, and MCP tooling on AWS Bedrock.
 
-📍 Open to relocation (EU / UK / Canada / UAE)
+📍 Open to relocation 
 
 **Core stack**
 `React` · `Next.js` · `Node.js` · `TypeScript` · `AWS` · `Docker` · `Kubernetes` · `Terraform`
