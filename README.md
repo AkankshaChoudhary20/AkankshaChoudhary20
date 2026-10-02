@@ -6,8 +6,6 @@ I have 8 years of software development experience, with my deepest expertise in 
 
 I’m building on that foundation with AWS, DevOps, and system design, while developing a specialization in AI applications and platforms. My focus is bringing LLMs into useful software through RAG, agents, tool calling, and MCP—connecting interfaces and APIs with cloud infrastructure.
 
-🌍 **Open to relocation**
-
 ## Engineering foundation
 
 - **Frontend:** React, Next.js, JavaScript, TypeScript, Redux, React Query, Jest, React Testing Library
