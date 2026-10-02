@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer | React, Node.js & AI Application Engineering**
 
-I have 7+ years of software development experience, with my deepest expertise in React and frontend engineering. My work has expanded into full-stack development, backend APIs, and enterprise applications with authentication, role-based access, and client-level feature configuration.
+I have 8 years of software development experience, with my deepest expertise in React and frontend engineering. My work has expanded into full-stack development, backend APIs, and enterprise applications with authentication, role-based access, and client-level feature configuration.
 
 I’m building on that foundation with AWS, DevOps, and system design, while developing a specialization in AI applications and platforms. My focus is bringing LLMs into useful software through RAG, agents, tool calling, and MCP—connecting interfaces and APIs with cloud infrastructure.
 
