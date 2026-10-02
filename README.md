@@ -11,13 +11,13 @@ I’m building on that foundation with AWS, DevOps, and system design, while dev
 ## Engineering foundation
 
 - **Frontend:** React, Next.js, JavaScript, TypeScript, Redux, React Query, Jest, React Testing Library
-- **Backend & data:** Node.js, Express, REST APIs, JWT, RBAC, MongoDB, PostgreSQL, MySQL
+- **Backend & data:** Node.js, Express, Python, FastAPI, REST APIs, JWT, RBAC, MongoDB, PostgreSQL, MySQL
 - **Practical DevOps experience:** Docker, Jenkins, GitHub Actions, CI/CD, and infrastructure troubleshooting
 
 ## Current focus
 
 - **Cloud & system design:** AWS, serverless and event-driven architectures, queues, scalability, and high availability
-- **AI application engineering:** Python, FastAPI, Amazon Bedrock, Ollama, embeddings, vector search, RAG, and prompt evaluation
+- **AI application engineering:** Amazon Bedrock, Ollama, embeddings, vector search, RAG, and prompt evaluation
 - **Agentic systems:** Tool calling, MCP, and agents for cloud and DevOps workflows
 - **Deepening infrastructure skills:** Kubernetes, Terraform, Prometheus, Grafana, and OpenTelemetry
 
