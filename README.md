@@ -1,6 +1,6 @@
 # Hi, I'm Akanksha 👋
 
-**Senior Full-Stack Engineer | React, Node.js & AI Application Engineering**
+**Senior Full-Stack Engineer | Cloud & AI Platforms**
 
 I have 8 years of software development experience, with my deepest expertise in React and frontend engineering. My work has expanded into full-stack development, backend APIs, and enterprise applications with authentication, role-based access, and client-level feature configuration.
 
