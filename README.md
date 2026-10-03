@@ -2,8 +2,6 @@
 
 **Senior Full-Stack Engineer | Cloud & AI Platforms**
 
-**Portfolio:** [akankshacodes.com](http://akankshacodes.com/)
-
 I have 8 years of software development experience, with my deepest expertise in React and frontend engineering. My work has expanded into full-stack development, backend APIs, and enterprise applications with authentication, role-based access, and client-level feature configuration.
 
 I’m building on that foundation with AWS, DevOps, and system design, while developing a specialization in AI applications and platforms. My focus is bringing LLMs into useful software through RAG, agents, tool calling, and MCP—connecting interfaces and APIs with cloud infrastructure.
@@ -22,3 +20,5 @@ I’m building on that foundation with AWS, DevOps, and system design, while dev
 - **Deepening infrastructure skills:** Kubernetes, Terraform, Prometheus, Grafana, and OpenTelemetry
 
 My direction: combine established software engineering experience with cloud and GenAI skills to build reliable AI-enabled applications and platforms.
+
+**Portfolio:** [akankshacodes.com](http://akankshacodes.com/)
