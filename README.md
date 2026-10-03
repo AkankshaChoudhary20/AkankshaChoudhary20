@@ -2,6 +2,8 @@
 
 **Senior Full-Stack Engineer | Cloud & AI Platforms**
 
+**Portfolio:** [akankshacodes.com](http://akankshacodes.com/)
+
 I have 8 years of software development experience, with my deepest expertise in React and frontend engineering. My work has expanded into full-stack development, backend APIs, and enterprise applications with authentication, role-based access, and client-level feature configuration.
 
 I’m building on that foundation with AWS, DevOps, and system design, while developing a specialization in AI applications and platforms. My focus is bringing LLMs into useful software through RAG, agents, tool calling, and MCP—connecting interfaces and APIs with cloud infrastructure.
