@@ -20,5 +20,3 @@ I’m building on that foundation with AWS, DevOps, and system design, while dev
 - **Deepening infrastructure skills:** Kubernetes, Terraform, Prometheus, Grafana, and OpenTelemetry
 
 My direction: combine established software engineering experience with cloud and GenAI skills to build reliable AI-enabled applications and platforms.
-
-**Portfolio:** [akankshacodes.com](http://akankshacodes.com/)
